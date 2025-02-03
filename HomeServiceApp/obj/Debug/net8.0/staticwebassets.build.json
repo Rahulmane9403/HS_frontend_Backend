@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8Wrhjyi2w1rdokWXki680GXogJnxirf0GxbfuESmifo=",
+  "Source": "HomeServiceApp",
+  "BasePath": "_content/HomeServiceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
