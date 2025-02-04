@@ -255,3 +255,4 @@ D:\Workspace_2024\HomeServicedotnet\Solution1\HomeServiceApp\obj\Debug\net8.0\Ho
 D:\Workspace_2024\HomeServicedotnet\Solution1\HomeServiceApp\obj\Debug\net8.0\HomeServiceApp.genruntimeconfig.cache
 D:\Workspace_2024\HomeServicedotnet\Solution1\HomeServiceApp\obj\Debug\net8.0\ref\HomeServiceApp.dll
 D:\Workspace_2024\HomeServicedotnet\Solution1\HomeServiceApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Workspace_2024\HomeServicedotnet\Solution1\HomeServiceApp\obj\Debug\net8.0\HomeServiceApp.sourcelink.json
